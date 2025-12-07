@@ -38,7 +38,7 @@ console.log(1+"2")
 console.log("1"+2+2)
 console.log(1+2+"2")//perform differently
 let gameCounter=100
-gameCounter++;
+gameCounter++;//same as way  c++ postfix and prefix
 console.log(gameCounter);
 
 

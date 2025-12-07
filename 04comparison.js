@@ -20,3 +20,5 @@ console.log(undefined>0);
 console.log(undefined<0);
 // === it checks both data type and values strictly
 console.log("2"===2);
+// this type of comparsion create confusion so always try to ignore this type of comparsion
+  
